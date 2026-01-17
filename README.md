@@ -8,3 +8,4 @@ handling, repeated start, and stop conditions using open-drain SDA and SCL lines
 
 The objective of this project is to demonstrate protocol-aware RTL design, finite state machine (FSM)
 implementation, clock-domain handling, and ASIC physical design best practices using industry-standard EDA tools.
+![Alt Text](image_url)
