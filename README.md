@@ -21,7 +21,7 @@ This waveform shows the functionality of the master. When start pulse is applied
 
 
 
-![Alt Text](cc)
+![Alt Text](https://github.com/SambitKumarDas0004/I2C_MASTER/blob/main/i2c_master_fp.jpg)
 
 
 
