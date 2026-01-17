@@ -1,2 +1,10 @@
 # I2C_MASTER
 Master block of an I2C bus 
+
+This project implements an I2C (Inter-Integrated Circuit) Master Controller, designed in 
+Verilog HDL and taken through a complete RTL-to-GDS physical design flow. The design follows
+the I2C protocol specification, supporting address transmission, data transfer, acknowledgment
+handling, repeated start, and stop conditions using open-drain SDA and SCL lines.
+
+The objective of this project is to demonstrate protocol-aware RTL design, finite state machine (FSM)
+implementation, clock-domain handling, and ASIC physical design best practices using industry-standard EDA tools.
