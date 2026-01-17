@@ -13,9 +13,9 @@ implementation, clock-domain handling, and ASIC physical design best practices u
 
 
 
-
-![Alt Text](https://github.com/SambitKumarDas0004/I2C_MASTER/blob/main/i2c_bus_data_transfer.jpg)
 What I am trying to impliment.
+![Alt Text](https://github.com/SambitKumarDas0004/I2C_MASTER/blob/main/i2c_bus_data_transfer.jpg)
+
 
 
 
