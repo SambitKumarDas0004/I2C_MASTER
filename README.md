@@ -14,7 +14,8 @@ implementation, clock-domain handling, and ASIC physical design best practices u
 
 
 
-![Alt Text](tt)
+![Alt Text](https://github.com/SambitKumarDas0004/I2C_MASTER/blob/main/i2c_bus_data_transfer.jpg)
+What I am trying to impliment.
 
 
 
@@ -68,11 +69,11 @@ This waveform shows the functionality of the master. When start pulse is applied
 ![Alt Text](https://github.com/SambitKumarDas0004/I2C_MASTER/blob/main/i2c_master_fp.jpg)
 3. Floorplanning
 
-Core area defined with proper aspect ratio
+-Core area defined with proper aspect ratio
 
-IO pins placed for SDA, SCL, clock, and data signals
+-IO pins placed for SDA, SCL, clock, and data signals
 
-Placement rows generated for standard cells
+-Placement rows generated for standard cells
 
 
 
@@ -93,13 +94,13 @@ Placement rows generated for standard cells
 ![Alt Text](https://github.com/SambitKumarDas0004/I2C_MASTER/blob/2699a358453e5218bf67b6156ca4c94988db2426/i2c_master_powplan.jpg)
 4. Power Planning
 
-VDD and VSS power grid implemented
+-VDD and VSS power grid implemented
 
-Horizontal and vertical power straps across the core
+-Horizontal and vertical power straps across the core
 
-Well-distributed power network to reduce IR drop
+-Well-distributed power network to reduce IR drop
 
-Power connectivity verified across all standard cells
+-Power connectivity verified across all standard cells
 
 
 
@@ -153,13 +154,6 @@ Power connectivity verified across all standard cells
 ![Alt Text](https://github.com/SambitKumarDas0004/I2C_MASTER/blob/main/i2c_master_nano_route.jpg)
 7. Nano Routing
 
-NanoRoute used for detailed routing
+-NanoRoute used for detailed routing
 
-All signal, clock, and power nets routed
-
-
-
-
-
-
-![Alt Tex
+-All signal, clock, and power nets routed
